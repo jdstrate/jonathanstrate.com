@@ -1,0 +1,34 @@
+{
+    "name": "jonathanstrate.com",
+    "version": "2.0.0",
+    "description": "jonathanstrate.com\r ==================",
+    "main": "index.html",
+    "dependencies": {
+        "bower": "^1.3.3",
+        "http-server": "^0.6.1",
+        "karma": "^0.12.16"
+    },
+    "devDependencies": {
+        "grunt": "~0.4.5",
+        "grunt-contrib-jshint": "~0.10.0",
+        "grunt-contrib-less": "*",
+        "grunt-contrib-nodeunit": "~0.3.3",
+        "grunt-contrib-uglify": "~0.4.0",
+        "grunt-contrib-watch": "*"
+    },
+    "scripts": {
+        "prestart": "npm install",
+        "start": "http-server -p 8000",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jdstrate/jonathanstrate.com.git"
+    },
+    "author": "Jonathan Strate",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jdstrate/jonathanstrate.com/issues"
+    },
+    "homepage": "http://www.jonathanstrate.com"
+}

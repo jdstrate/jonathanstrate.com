@@ -1,0 +1,16 @@
+/*!
+ *  pontano-sans.woff
+ *
+ *  Copyright (c), Vernon Adams
+ *  This Font Software is licensed under the SIL Open Font License, Version 1.1.
+ */@font-face{font-family:'Pontano Sans';font-weight:400;font-style:normal;src:url('../fonts/pontano-sans-regular.eot');src:url('../fonts/pontano-sans-regular.eot?#iefix') format('eot'),url('../fonts/pontano-sans-regular.woff') format('woff'),url('../fonts/pontano-sans-regular.ttf') format('truetype'),url('../fonts/pontano-sans-regular.svg') format('svg')}@media screen and (-webkit-min-device-pixel-ratio:0){@font-face{font-family:'Pontano Sans';src:url('../fonts/pontano-sans-regular.svg') format('svg')}}/*!
+ *  merriweather.woff
+ *
+ *  Copyright (c), Eben Sorkin
+ *  This Font Software is licensed under the SIL Open Font License, Version 1.1.
+ */@font-face{font-family:'Merriweather';font-weight:normal;font-style:normal;src:url('../fonts/merriweather.eot');src:url('../fonts/merriweather.eot?#iefix') format('eot'),url('../fonts/merriweather.woff') format('woff'),url('../fonts/merriweather.ttf') format('truetype'),url('../fonts/merriweather.svg') format('svg')}@media screen and (-webkit-min-device-pixel-ratio:0){@font-face{font-family:'Merriweather';font-weight:normal;src:url('../fonts/merriweather.svg') format('svg')}}/*!
+ *  merriweather-bold.woff
+ *
+ *  Copyright (c), Eben Sorkin
+ *  This Font Software is licensed under the SIL Open Font License, Version 1.1.
+ */@font-face{font-family:'Merriweather';font-weight:bold;font-style:normal;src:url('../fonts/merriweather-bold.eot');src:url('../fonts/merriweather-bold.eot?#iefix') format('eot'),url('../fonts/merriweather-bold.woff') format('woff'),url('../fonts/merriweather-bold.ttf') format('truetype'),url('../fonts/merriweather-bold.svg') format('svg')}@media screen and (-webkit-min-device-pixel-ratio:0){@font-face{font-family:'Merriweather';font-weight:bold;src:url('../fonts/merriweather-bold.svg') format('svg')}}footer{clear:both}h1{font-family:'Pontano Sans',sans-serif;font-size:2.5em;font-weight:normal;margin-top:0}p{color:#383838;font-family:'Merriweather',serif;font-size:1em;line-height:1.7em}a{text-decoration:none}
